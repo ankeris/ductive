@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "electron": "^5.0.2",
-    "node-notifier": "^5.4.0",
+    "node-notifier": "^8.0.1",
     "react": "^16.8.6",
     "react-calendar": "^2.19.0",
     "react-dom": "^16.8.6",
